@@ -7,7 +7,7 @@ Fork, edit **`config.js`**, and deploy with Vercel or GitHub Pages.
 
 ```bash
 # 1  Clone or fork the repository
-git clone hhttps://github.com/ruperthjr/fem-love.git
+git clone https://github.com/ruperthjr/fem-love.git
 cd femboy
 
 # 2  Tweak the copy
